@@ -1,1 +1,1 @@
-# Expense_Tracker
+# Expense Tracker Django Project
